@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\projects\CS320P03Khan\CS320P03Khan\graph.h(29,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\projects\CS320P03Khan\CS320P03Khan\graph.h(51,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\projects\CS320P03Khan\CS320P03Khan\Source.cpp(15,53): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+D:\projects\CS320P03Khan\CS320P03Khan\Source.cpp(16,48): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+D:\projects\CS320P03Khan\CS320P03Khan\Source.cpp(19,28): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  CS320P03Khan.vcxproj -> D:\projects\CS320P03Khan\x64\Debug\CS320P03Khan.exe
